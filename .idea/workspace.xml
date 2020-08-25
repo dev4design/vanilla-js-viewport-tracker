@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0a0b36a-248a-43ce-a461-7a371604e54f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/check_viewport.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js-check-viewport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js-viewport-tracker.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gWeF458uiLD9deV0vbYcRNpIBR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\clubn\Desktop\dev4\ES5\check_viewport" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0a0b36a-248a-43ce-a461-7a371604e54f" name="Default Changelist" comment="" />
+      <created>1598234669038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598234669038</updated>
+      <workItem from="1598234670085" duration="14187000" />
+      <workItem from="1598314561944" duration="20634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="710" y="320" key="CommitChangelistDialog2" timestamp="1598339246047">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="710" y="320" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1598339246047" />
+    <state x="593" y="398" key="SettingsEditor" timestamp="1598339278573">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="593" y="398" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1598339278573" />
+    <state x="894" y="660" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598339188428">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="894" y="660" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598339188428" />
+  </component>
+</project>

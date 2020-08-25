@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Check viewport</title>
+
+    <style>
+        * {
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+        }
+        body {
+            text-align:center;
+            font-family:Arial,sans-serif;
+            background-color: #252525;
+            font-size: 16px;
+        }
+        .viewport {
+            position:relative;
+            width:100%;
+            height: 3000px;
+            border: 10px dashed #df4a38;
+            font-size: .75rem;
+            text-transform: uppercase;
+        }
+        /* 아래 두 클래스의 포지션을 설정할 것 */
+        .trigger-top,
+        .trigger-bottom {
+            width:100%;
+            text-indent:-50%;
+            position:fixed;
+            top:25%;
+            border-top:1px solid #00ffff;
+            font-size: .75rem;
+            color: #00ffff;
+        }
+        .trigger-bottom {
+            top:auto;
+            bottom:25%;
+        }
+        .video-wrapper {
+            position:relative;
+            color:#df7d0d;
+            border:1px solid #df7d0d;
+            width:400px;
+            height:300px;
+            margin:0 auto;
+        }
+        .video-wrapper.vid-01 {
+            top: 800px;
+        }
+        .video-wrapper.vid-02 {
+            top: 1600px;
+        }
+        .video-wrapper .tracker {
+            position:absolute;
+            top:50%;
+            left:50%;
+            width:1px;
+            height:1px;
+            padding:1px; /* these 3 attributes are here just for the show */
+            border:1px solid red;
+            color: #ecc300;
+            line-height:1px;
+            text-indent:5px; /* again, just for the show */
+        }
+    </style>
+</head>
+<body>
+
+<div class="viewport">
+    <div class="trigger-top">Trigger Top</div>
+    <div class="trigger-bottom">Trigger Bottom</div>
+    <div class="video-wrapper vid-01">
+        video
+        <div class="tracker">tracker</div>
+    </div>
+    <div class="video-wrapper vid-02">
+        video
+        <div class="tracker">tracker</div>
+    </div>
+</div>
+
+<script src="vanilla-js-viewport-tracker.js"></script>
+</body>
+</html>
